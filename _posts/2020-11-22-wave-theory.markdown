@@ -8,7 +8,7 @@ categories: pachinko_slot
 
 <font size="6" face="ＭＳ ゴシック">パチスロの”波”をつかめ！</font>
 
-![name of the image](/blog/img/JUGGLER_04.jpg)
+![name of the image](https://se8move.github.io/blog/img/JUGGLER_04.jpg)
 
 引用先[DMMパチタウン](https://p-town.dmm.com/specials/2089)
 
