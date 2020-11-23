@@ -6,7 +6,7 @@ categories: pachinko_slot
 ---
 
 
-<font size="6" face="ＭＳ ゴシック">パチスロの”波”をつかめ！<font>
+<font size="6" face="ＭＳ ゴシック">パチスロの”波”をつかめ！</font>
 
 ![name of the image](https://se8move.github.io/blog/img/JUGGLER_04.jpg)
 
