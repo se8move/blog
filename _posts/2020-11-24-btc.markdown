@@ -15,7 +15,7 @@ categories: btc
 
 <h3>仮想通貨XYMの誕生</h3>
 
-来年１月１４日、NEMから新しい仮想通貨Symbolが誕生予定<br>
+来年１月１４日、NEMから新しい仮想通貨Symbolが誕生予定
 （正確にはNEM、symbolは仮想通貨の名称ではない）
 <br>
 <br>
