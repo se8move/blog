@@ -15,7 +15,7 @@ categories: btc
 
 <h3>仮想通貨XYMの誕生</h3>
 
-来年１月１４日、NEMから新しい仮想通貨Symbolが誕生予定
+来年１月１４日、NEMから新しい仮想通貨Symbolが誕生予定<br>
 （正確にはNEM、symbolは仮想通貨の名称ではない）
 <br>
 <br>
@@ -26,7 +26,8 @@ categories: btc
 来年１月１４日のスナップショット時まで保有しなければ付与されない<br>
 （それまではNEMを保有し続ける人が多いだろう）
 <br>
-これがNEMの高騰している理由と考える
+<br>
+これがNEMの高騰している理由だと考えられる
 
 
 現在のところ、bitflyer、coincheck、DMM bitcoinがsymbolの付与を予定している
