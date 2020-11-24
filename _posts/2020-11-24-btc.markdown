@@ -7,7 +7,7 @@ categories: btc
 
 <h1>ビットコイン、アルトコイン暴騰！！！</h1>
 
-![name of the image](https://github.com/se8move/blog/img/image-3046639__480.jpg)
+![name of the image](https://se8move.github.io/blog/img/image-3046639__480.jpg)
 
 
 
