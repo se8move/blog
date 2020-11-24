@@ -18,7 +18,7 @@ categories: btc
 （正確にはNEM、symbolは仮想通貨の名称ではない）
 　
  
-仮想通貨NEMの保有数量と同じ数量のsymbolが無料で付与される
+仮想通貨NEMの保有数量と同じ数量のsymbolが無料で付与される<br>
 　
 　
 現在のところ、bitflyer、coincheck、DMM bitcoinがsymbolの付与を予定している
