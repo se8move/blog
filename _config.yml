@@ -32,7 +32,6 @@ github_username:  se8move
 # Build settings
 theme: minima
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
 
 # Exclude from processing.
