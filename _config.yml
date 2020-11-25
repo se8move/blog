@@ -33,10 +33,7 @@ github_username:  se8move
 theme: minima
 plugins:
   - jekyll-sitemap
-<<<<<<< HEAD
   - jekyll-feed
-=======
->>>>>>> 1e115792713b2b26762831853495fbdb8f3d0140
 
 # Exclude from processing.
 # The following items will not be processed, by default.
