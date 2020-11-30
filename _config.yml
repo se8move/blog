@@ -34,7 +34,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+<<<<<<< HEAD
   - jekyll-seo-tag
+=======
+>>>>>>> 601612919dbada79202b0811d7b39086d4163b96
 
 # Exclude from processing.
 # The following items will not be processed, by default.
