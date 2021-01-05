@@ -13,27 +13,24 @@ categories: btc
 
 引用先[フリー画像](https://pixabay.com/ja/images/search/bitcoin/)
 
-<h3>仮想通貨XYMの誕生</h3>
+<h3>新しい仮想通貨XYM</h3>
 
 来年１月１４日、NEMから新しい仮想通貨Symbolが誕生予定
-（正確にはNEM、symbolは仮想通貨の名称ではない）
 <br>
 <br>
 仮想通貨NEMの保有数量と同じ数量のsymbolが無料で付与される<br>
 ~~（すなわち、付与されたのち新仮想通貨XYMを売却すれば…）~~
 <br>
 <br>
-来年１月１４日のスナップショット時まで保有しなければ付与されない<br>
-（それまではNEMを保有し続ける人が多いだろう）
+<br>
+NEM WALLET、Symbol WALLETのアプリをDLして、<br>
+オプトインするとスナップショット時にXYMが手に入る。
 <br>
 <br>
-これがNEMの高騰している理由だと考えられる
+<br>
+<h4>残念ながら上場予定の取引所がBinance、Poloniexのみで、<br>
+ 手に入ってもすぐには売却できなさそうです。</h4>
 
 
-現在のところ、bitflyer、coincheck、DMM bitcoinがsymbolの付与を予定している
-　
- 
- 
-仮想通貨NEMが17円の高値を超えることができれば、21円～33円まで上昇するとの見解もあり、現物・FXによるキャピタルゲインも狙える。
-
-[フジマナさん](https://www.youtube.com/watch?v=IX2CdI573vM)
+※オプトインのやり方は以下の動画を参考にしてみてください。
+[COIN CATSチャンネルさん](https://www.youtube.com/watch?v=J4kApT7lw9E&t=905s)
