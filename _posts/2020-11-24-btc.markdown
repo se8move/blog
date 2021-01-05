@@ -25,13 +25,14 @@ categories: btc
 <br>
 <br>
 NEM WALLET、Symbol WALLETのアプリをDLして、<br>
-オプトインするとスナップショット時にXYMが手に入る。
+事前オプトインするとスナップショット時にXYMが手に入る。
 <br>
 <br>
 <br>
 <h4>残念ながら上場予定の取引所がBinance、Poloniexのみで、<br>
  手に入ってもすぐには売却できなさそうです。</h4>
-
+<br>
+<br>
 
 ※オプトインのやり方は以下の動画を参考にしてみてください。
 [COIN CATSチャンネルさん](https://www.youtube.com/watch?v=J4kApT7lw9E&t=905s)
