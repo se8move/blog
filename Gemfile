@@ -34,3 +34,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 #Sitemap
 gem 'sitemap_generator'
 
+gem 'carrierwave'
+
+gem 'fog-aws'
+
+
