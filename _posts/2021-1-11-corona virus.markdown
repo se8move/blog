@@ -28,3 +28,7 @@ categories: 新型コロナウイルス
 <br>
 お出かけの際に参考にしてみてください<br>
 [Rei Frontier Tech Blog](https://tech-blog.rei-frontier.jp/)
+
+
+ANN 渋谷スクランブル交差点　LIVEカメラ
+[Youtube](https://www.youtube.com/watch?v=lkIJYc4UH60)
