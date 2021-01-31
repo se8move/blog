@@ -6,7 +6,7 @@ categories: music
 ---
 
 
-![name of the image](https://se8move.github.io/blog/img/131.jpg)
+![name of the image](https://se8move.github.io/blog/img/131.jpeg)
 
 引用先[翼を広げて](https://www.youtube.com/watch?v=mtk9R-gSZ0Y)
 
