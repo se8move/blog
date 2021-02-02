@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "好きな曲"
+date:   2021-1-31 23:55:00 +0900
+categories: music
+---
+
+
+![name of the image](https://se8move.github.io/blog/img/JUGGLER_04.jpg)
+
+引用先[ペカペカ不足 by 江田島さん](https://www.youtube.com/watch?v=hh7kPCpFOzE&t=29s)
+
+
+
