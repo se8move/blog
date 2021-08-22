@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "仮想通貨が暴騰"
+date:   2021-8-22 22:33:00 +0900
+categories: btc
+---
+
+<h1>IOSTが4円を突破！</h1>
+
+![name of the image](https://se8move.github.io/blog/img/IOST_price.png)
+
+<br>
+<br>
+<br>
+
+<h3>5月21日にレジスタンスラインまで到達</h3>
+
+![name of the image](https://se8move.github.io/blog/img/IOST_chart.png)
+
+
+<br>
+<br>
+<br>
+
+
+<h3>次のレジスタンスラインは4.9円</h3>
+
+![name of the image](https://se8move.github.io/blog/img/IOST_chart2.png)
+
