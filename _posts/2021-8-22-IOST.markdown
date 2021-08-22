@@ -7,7 +7,7 @@ categories: btc
 
 <h1>IOSTが4円を突破！</h1>
 
-![name of the image](https://se8move.github.io/blog/img/IOST_price.png)
+![name of the image](https://se8move.github.io/blog/img/IOST_price.PNG)
 
 <br>
 <br>
