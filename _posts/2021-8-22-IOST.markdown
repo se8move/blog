@@ -12,8 +12,16 @@ categories: btc
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<h3>5月21日にレジスタンスラインまで到達</h3>
+
+<h3>5月21日のレジスタンスラインまで到達</h3>
 
 ![name of the image](https://se8move.github.io/blog/img/IOST_chart.png)
 
@@ -21,7 +29,13 @@ categories: btc
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3>次のレジスタンスラインは4.9円</h3>
 
