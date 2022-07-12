@@ -2,7 +2,7 @@
 layout: post
 title:  "Men's Jenny Clinic"
 date:   2022-06-28 22:37:09 +0900
-categories: omiya city
+categories: 脱毛
 ---
 
 

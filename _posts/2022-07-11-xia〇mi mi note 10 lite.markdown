@@ -2,7 +2,7 @@
 layout: post
 title:  "xia〇mi mi note 10 lite"
 date:   2022-07-11 22:10:00 +0900
-categories: stepn
+categories: スマホ
 ---
 
 
