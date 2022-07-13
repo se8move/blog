@@ -6,7 +6,7 @@ categories: webライター
 ---
 
 
-<font size="6" face="ＭＳ ゴシック">webライティングスクール、KWスクールの評判はいかに</font>
+<font size="6" face="ＭＳ ゴシック">webライティングスクール<br>KWスクールの評判はいかに</font>
 
 ![name of the image](https://se8move.github.io/blog/img/22352788_s.jpg)
 
