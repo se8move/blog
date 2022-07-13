@@ -47,11 +47,13 @@ categories: webライター
 
 　個人的な意見ではありますが、以下に当てはまる方は
 　KWスクールのyoutubeを見てください。
-## Youtubeは無料です！！！
+
 
    - 仕事で長い文章を書くことがない
    - 仕事で文章を書いたことがあっても他人に読んでもらうことがない
    - 自分が書いた文章を添削してもらったことがない
+
+## Youtubeは無料です！！！
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FENRxRGfpQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
