@@ -34,7 +34,7 @@ categories: webライター
 
 
 <a id="1"></a>
-### どんなことが学べるのか
+<h3>どんなことが学べるのか</h3>
 
 　主に以下の二項目を学べるようです。
 
@@ -54,7 +54,7 @@ categories: webライター
    - 自分が書いた文章を添削してもらったことがない
 
 
-## Youtubeは無料で公開されています！！！
+## Youtubeは無料
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FENRxRGfpQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ categories: webライター
 
 
 <a id="2"></a>
-### 実際に受講されている方を探してみました
+<h3>実際に受講されている方を探してみました</h3>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">楓と申します✨KWスクールで勉強中です<br>よかったら仲良くして下さい☺️🌸</p>&mdash; 楓　webライター (@webwriter_kaeco) <a href="https://twitter.com/webwriter_kaeco/status/1512311292027039758?ref_src=twsrc%5Etfw">April 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -90,7 +90,7 @@ KWスクールで勉強中です！</p>
 
 
 <a id="3"></a>
-### 料金やサポート体制の詳細について
+<h3>料金やサポート体制の詳細について</h3>
 
 - [【嘘の口コミ暴露】KWスクールの評判を徹底調査してみました！料金や受講料は？](https://honne-kuchikomi.com/kwschool/)
 
@@ -100,11 +100,13 @@ KWスクールで勉強中です！</p>
 
 <p>上記の３つのブログでも紹介されているとおり、入会金や受講料は後悔されていないようです。</p>
 
-<p>大学や専門学校で学ぶ際にも入学金、授業料が数十万円かかるように、当然webライティングスキルを身に着ける際にもお金がかかることが想定されます。</p>
+<p>大学や専門学校で学ぶ際にも入学金、授業料が数十万円かかるように、当然webライティングスキルを身に着ける際にもお金がかかることは仕方ありません。</p>
 
 <p>自分も大学に通い会社員になりましたが、4年間で230万円ほど支払っております。</p>
 
-<p>
+<p>大学や専門学校に通い企業に就職するところの良いところは、仕事で成果を得られずとも毎月コンスタントに収入を得られる点ですね。</p>
+
+<p>フリーランスのwebライターでは提案文を提出し、それをもとに採用活動を行い、採用されなければ収入を得ることができません。</p>
 
 
 
