@@ -37,7 +37,7 @@ categories: webライター
 <a id="1"></a>
 <h3>どんなことが学べるのか</h3>
 
-　主に以下の二項目を学べるようです。
+　主に以下の四項目を学べるようです。
 
    - SEO対策<br>
    端的な言葉で表現すると、自分の作成した記事がGoogleやInterExplorerなどで検索された際に上位に表示されるようにすること。
@@ -67,8 +67,8 @@ categories: webライター
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FENRxRGfpQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<strong>いきなり副業でお金を稼ぐということを考えても、
-読み手が読みやすい文章を書けることがwebライターへの一歩だと思います。</strong><br>
+<strong>いきなり副業でお金を稼ごうとは考えずに、
+読み手が読みやすい文章を書けるようになることがwebライターへの近道だと思います。</strong><br>
 
 <br>
 <br>
