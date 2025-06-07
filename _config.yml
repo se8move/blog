@@ -18,17 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 資本主義社会からの脱却するんだぁ
+title: 資本主義社会から脱却するんだぁ
 email: nervous2014@yahoo.co.jp
-description: >- # this means to ignore newlines until "baseurl:"
-  資本主義社会からの脱却するんだぁ
+description:
+  資本主義社会から脱却するんだぁ
+url: "https://se8move.github.io"
 baseurl: "/blog" # the subpath of your site, e.g. 
 url: "https://se8move.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  se8move
 instagram_username: se8move_
 
-
+feed:
+  title: 資本主義社会から脱却するんだぁ
+  description: 最新の記事を購読する
+  path: /feed.xml
 
 # Build settings
 theme: minima
