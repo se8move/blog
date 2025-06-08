@@ -10,7 +10,7 @@ categories: 家庭菜園
 
 ![name of the image](https://se8move.github.io/blog/img/IMG_E6090.JPG)
 
-
+<img src="https://se8move.github.io/blog/img/IMG_E6090.JPG" alt="name of the image" width="400" height="auto">
 
 
 <h4>庭の土に種まきをしても発芽しませんでしたので、種から育てるには種まき用の土がよいです。</h4><br>

@@ -8,11 +8,10 @@ categories: 旅行
 
 <font size="6" face="ＭＳ ゴシック">代官山駅近くにアジサイが咲いていました。</font>
 
-![name of the image](https://se8move.github.io/blog/img/IMG_6101.JPG)
 
 <img src="https://se8move.github.io/blog/img/IMG_6101.JPG" alt="name of the image" width="300" height="auto">
 
-
+<img src="https://se8move.github.io/blog/img/IMG_6102.JPG" alt="name of the image" width="300" height="auto">
 
 
 以上  
