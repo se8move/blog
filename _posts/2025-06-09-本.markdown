@@ -6,7 +6,7 @@ categories: 本
 ---
 
 
-<font size="4" face="ＭＳ ゴシック">土地がなくても農業にチャレンジ</font>
+<font size="3" face="ＭＳ ゴシック">土地がなくても農業にチャレンジ</font>
 
 <a href="https://hb.afl.rakuten.co.jp/ichiba/298dc662.e1081edd.298dc663.4277a342/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18067673%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">フリーランス農家という働き方 おためし農業のすすめ [ 小葉松 真里 ]</a>
 <h4>稼ぎは少ないけど、農業の経験値は増えます</h4><br>
@@ -15,7 +15,7 @@ categories: 本
 <br>
 
 <a href="https://hb.afl.rakuten.co.jp/ichiba/298dc662.e1081edd.298dc663.4277a342/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18174197%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">今日誰かに話したくなる野菜・果物学 [ 小林 貞夫 ]</a>
-<h4>ほうれん草はヒユ科、小松菜はアブラナ科</h4><br>
+<h4>ほうれん草はヒユ科、小松菜はアブラナ科です</h4><br>
 <img src="https://se8move.github.io/blog/img/IMG_6110.JPG" alt="name of the image" width="300" height="auto">
 
 
