@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "マスクメロンが発芽しました"
+title:  "マスクメロンが発芽"
 date:   2025-06-07 15:55:00 +0900
 categories: 家庭菜園
 ---
