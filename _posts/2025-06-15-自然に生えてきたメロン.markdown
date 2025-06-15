@@ -6,15 +6,16 @@ categories: 家庭菜園
 ---
 
 
-<font size="5" face="ＭＳ ゴシック">メロン？</font>
+<font size="5" face="ＭＳ ゴシック">メロン？</font><br>
 
 <font size="4" face="ＭＳ ゴシック">毎年、庭に黄色いメロンが自生しており、今年も生えてきました。<br>ウリハムシに食べられた痕もありますので、間違いありません！</font>
 
 <img src="https://se8move.github.io/blog/img/IMG_6119.png" alt="name of the image" width="300" height="auto">
 <br>
-<img src="https://se8move.github.io/blog/img/IMG_6119.png" alt="name of the image" width="300" height="auto">
 <br>
-
+<img src="https://se8move.github.io/blog/img/IMG_6120.png" alt="name of the image" width="300" height="auto">
+<br>
+<br>
 <font size="4" face="ＭＳ ゴシック">おまけに、栽培しているバジルも載せておきます。</font><br>
 <img src="https://se8move.github.io/blog/img/IMG_6123.png" alt="name of the image" width="300" height="auto">
 
