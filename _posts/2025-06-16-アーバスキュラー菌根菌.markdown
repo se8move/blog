@@ -13,10 +13,11 @@ categories: 家庭菜園
 <img src="https://se8move.github.io/blog/img/himawari-free.jpg" alt="name of the image" width="300" height="auto">
 <br>
 <br>
+<font size="4" face="ＭＳ ゴシック">ひまわりとアーバスキュラー菌根菌は共生できる。<br>だから、ひまわりを植える。</font><br>
 <img src="https://se8move.github.io/blog/img/IMG_6124.jpg" alt="name of the image" width="300" height="auto">
 <br>
 <br>
-<font size="4" face="ＭＳ ゴシック">参考動画</font>
+<font size="4" face="ＭＳ ゴシック">参考動画</font><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OVSsnOgtVMA?si=NmA9P5nCx-ZK4SLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
