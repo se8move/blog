@@ -12,7 +12,7 @@ categories: 家庭菜園
 <img src="https://se8move.github.io/blog/img/IMG_6140.jpg" alt="name of the image" width="300" height="auto">
 <br>
 <br>
-<font size="4" face="ＭＳ ゴシック">ジャガイモに実がなっているを見つけました。</font><br>
+<font size="4" face="ＭＳ ゴシック">ジャガイモに実がなっているのを見つけた。</font><br>
 <img src="https://se8move.github.io/blog/img/IMG_6139.jpg" alt="name of the image" width="300" height="auto">
 
 
